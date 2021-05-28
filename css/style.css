@@ -335,3 +335,15 @@
        
     }
 }
+.footer-last{
+    height: 70px;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-last h6{
+    text-align: center;
+
+}
+
