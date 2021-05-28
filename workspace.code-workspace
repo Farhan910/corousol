@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "L:\\New folder"
+		},
+		{
+			"path": "..\\class 1 anis"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\typing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "carousol"
+	}
+}
